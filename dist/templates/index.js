@@ -130,6 +130,37 @@
       }
     ]
   },
+  "hello_world_nim": {
+    "name": "Hello World Nim Project",
+    "description": "# Hello World Nim Project",
+    "icon": "nim-lang-file-icon",
+    "files": [
+      {
+        "name": "README.md"
+      },
+      {
+        "name": "build.ts"
+      },
+      {
+        "name": "package-lock.json"
+      },
+      {
+        "name": "package.json"
+      },
+      {
+        "name": "pkg/leypa.nim"
+      },
+      {
+        "name": "src/main.html"
+      },
+      {
+        "name": "src/main.js"
+      },
+      {
+        "name": "src/main.nim"
+      }
+    ]
+  },
   "hello_world_rust": {
     "name": "Hello World Rust Project",
     "description": "# Hello World Rust Project",
@@ -146,34 +177,6 @@
       },
       {
         "name": "src/lib.rs"
-      },
-      {
-        "name": "src/main.html"
-      },
-      {
-        "name": "src/main.js"
-      }
-    ]
-  },
-  "hello_world_nim": {
-    "name": "Hello World Nim Project",
-    "description": "# Hello World Nim Project",
-    "icon": "nim-lang-file-icon",
-    "files": [
-      {
-        "name": "README.md"
-      },
-      {
-        "name": "build.ts"
-      },
-      {
-        "name": "package.json"
-      },
-      {
-        "name": "pkg/leypa.nim"
-      },
-      {
-        "name": "src/main.nim"
       },
       {
         "name": "src/main.html"
