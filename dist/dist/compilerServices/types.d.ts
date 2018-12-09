@@ -4,7 +4,6 @@ export declare enum Language {
     Wat = "wat",
     Wasm = "wasm",
     Rust = "rust",
-    Nim = "nim",
     Cretonne = "cton",
     x86 = "x86",
     Json = "json",
