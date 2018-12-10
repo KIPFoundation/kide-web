@@ -57,7 +57,7 @@
   "dependencies": {
     "@types/flux": "^3.1.8",
     "@types/jszip": "^3.1.4",
-    "@types/minimatch": "^3.0.3",
+    "@types/minimatch": ">=3.0.2",
     "@types/mousetrap": "^1.6.0",
     "@types/pako": "^1.0.0",
     "@types/react-icons": "^2.2.6",
@@ -80,6 +80,7 @@
     "tslint-react": "^3.6.0"
   },
   "devDependencies": {
+    "lodash": ">=4.17.5",
     "merge": ">=1.2.1",
     "@types/base64-js": "^1.2.5",
     "@types/enzyme": "^3.1.15",
